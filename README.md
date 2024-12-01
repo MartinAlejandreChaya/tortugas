@@ -14,8 +14,8 @@ Este repositorio contiene una Interfaz de Usuario para Grefa, diseñada para ide
 
 Aquí hay un par de ejemplos de las imágenes de tortugas en el directorio `tortugas_bd`:
 
-![Tortuga 1](tortugas_bd/tortu1.jpg)
-![Tortuga 2](tortugas_bd/tortu2.jpg)
+![Tortuga 1](tortugas_bd/tortu1.png)
+![Tortuga 2](tortugas_bd/tortu2.png)
 
 ## Cómo contribuir
 
